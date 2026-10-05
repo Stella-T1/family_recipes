@@ -3,5 +3,5 @@
 Set of recipes as given by my grandma.
 
 * pizas (TODO)
-* saues (TODO)
-* spreds (TODO)
+* sauses (TODO)
+* reads (TODO)
